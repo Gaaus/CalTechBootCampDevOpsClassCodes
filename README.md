@@ -5,7 +5,6 @@ a fast read for learning how to get started -ddd not an example on =sasdasdasdas
  akshat  second edit hello
 Running the example from the command line
 -------------------
-
 ```
 $ mvn jetty:run
 ```
